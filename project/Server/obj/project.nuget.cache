@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "w4eaj/uR0F8=",
+  "dgSpecHash": "hi2+EDNw+2g=",
   "success": true,
   "projectFilePath": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\project\\Server\\project.Server.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,11 @@
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.36\\microsoft.aspnetcore.components.webassembly.6.0.36.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.36\\microsoft.aspnetcore.components.webassembly.server.6.0.36.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.36\\microsoft.aspnetcore.metadata.6.0.36.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.2\\microsoft.extensions.configuration.6.0.2.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.1\\microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.1\\microsoft.extensions.configuration.binder.6.0.1.nupkg.sha512",
@@ -28,8 +33,10 @@
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.1\\microsoft.extensions.primitives.6.0.1.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.jsinterop\\6.0.36\\microsoft.jsinterop.6.0.36.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.36\\microsoft.jsinterop.webassembly.6.0.36.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.2\\system.diagnostics.diagnosticsource.6.0.2.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\stj067\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\stj067\\.nuget\\packages\\system.text.json\\6.0.11\\system.text.json.6.0.11.nupkg.sha512"
   ],
   "logs": []

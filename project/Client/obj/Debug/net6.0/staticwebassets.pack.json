@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\project\\Client\\wwwroot\\video\\colors.mp4",
+      "PackagePath": "staticwebassets\\video\\colors.mp4"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.project.Client.props",
       "PackagePath": "build\\project.Client.props"
     },

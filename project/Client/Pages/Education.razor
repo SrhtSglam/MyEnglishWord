@@ -1,0 +1,117 @@
+﻿@page "/education"
+
+<PageTitle>Education</PageTitle>
+
+<h1>Education</h1>
+
+<div class="row">
+    <div class="col-6">
+        <div class="btn-group" role="group" aria-label="Lesson Group">
+            <button type="button" class="btn btn-secondary" @onclick="() => SelectEducation(1)">Kindergarten</button>
+            <button type="button" class="btn btn-secondary" @onclick="() => SelectEducation(2)">Primary School</button>
+            <button type="button" class="btn btn-secondary" @onclick="() => SelectEducation(3)">Middle School</button>
+            <button type="button" class="btn btn-secondary" @onclick="() => SelectEducation(4)">High School</button>
+        </div>
+    </div>
+    <div class="col-6">
+        @if(selectEducationType == 1){
+            <div class="list-group">
+                <a class="list-group-item list-group-item-action @(selectItem == 0 ? "active" : "")" @onclick="() => SelectItem(0)">All</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 1 ? "active" : "")" @onclick="() => SelectItem(1)">Colors</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 2 ? "active" : "")" @onclick="() => SelectItem(2)">Numbers</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 3 ? "active" : "")" @onclick="() => SelectItem(3)">Basic Greetings</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 4 ? "active" : "")" @onclick="() => SelectItem(4)">Animals</a>
+            </div>
+        }
+        @if(selectEducationType == 2){
+            <div class="list-group">
+                <a class="list-group-item list-group-item-action @(selectItem == 0 ? "active" : "")" @onclick="() => SelectItem(0)">All</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 1 ? "active" : "")" @onclick="() => SelectItem(1)">Family Members</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 2 ? "active" : "")" @onclick="() => SelectItem(2)">Days of the Week</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 3 ? "active" : "")" @onclick="() => SelectItem(3)">Classroom Objects</a>
+                <a class="list-group-item list-group-item-action @(selectItem == 4 ? "active" : "")" @onclick="() => SelectItem(4)">Basic Verbs</a>
+            </div>
+        }
+        @if(selectEducationType != 0 && selectItem != 0){
+            <div class="col-12 mt-3">
+                <div class="btn-group w-100" role="group" aria-label="Lesson Group">
+                    <button type="button" class="btn btn-secondary" @onclick="() => SelectLessonType(1, selectItem)">Words</button>
+                    <button type="button" class="btn btn-secondary" @onclick="() => SelectLessonType(2, selectItem)">Tests</button>
+                    <button type="button" class="btn btn-secondary" @onclick="() => SelectLessonType(3, selectItem)">Videos</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@if(selectEducationType != 0 && selectItem != 0 && lessonTypeNo == 3){
+    <div class="row mt-3">
+        <div class="col-4">
+            @if(selectEducationType == 1 && selectItem == 1){
+                <h1>Colors (Renkler)</h1>
+                <p>Renkler, çocukların çevrelerini tanımalarında ve betimleme becerilerini geliştirmelerinde temel bir rol oynar. Bu konu kapsamında 
+                    red (kırmızı), blue (mavi), yellow (sarı) gibi temel renkler öğretilir. Çocuklar renkleri şarkılar, oyunlar ve resim boyama 
+                    etkinlikleri ile öğrenir. Örneğin, "What color is this?" (Bu hangi renk?) sorusuna yanıt vererek hem renkleri tanırlar hem de 
+                    iletişim kurmayı öğrenirler. Renkler, eğlenceli bir şekilde öğrenmeyi teşvik eden ve küçük yaştaki çocukların dikkatini çeken 
+                    bir konudur.
+                </p>
+            }
+            @if(selectEducationType == 1 && selectItem == 2){
+                <h1>Numbers (Sayılar)</h1>
+                <p>Sayılar, çocuklara matematiksel düşünme becerisinin temellerini atmalarında yardımcı olur. Bu konu, 1’den 10’a kadar olan 
+                    sayıların İngilizce adlarını öğretmeyi içerir. Çocuklar, "One, two, three..." (Bir, iki, üç...) şeklinde sayı saymayı 
+                    öğrenirler. Eğlenceli şarkılar, sayma oyunları ve el hareketleri kullanılarak bu konuyu öğrenmeleri desteklenir. "How many 
+                    apples are there?" (Kaç tane elma var?) gibi sorularla çocuklar sayıların gerçek dünyadaki kullanımını da kavrarlar.
+                </p>
+            }
+        </div>
+        <video controls class="col-8">
+                <source src="video/@videoUrl" type="video/mp4">
+                Your browser does not support the video tag.
+        </video>
+    </div>
+}
+
+
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private string[] videoUrls = {"", "colors.mp4", "", "", "", "", "", ""};
+    private string videoUrl;
+    private int currentCount = 0;
+    private int selectEducationType = 0;
+    private int selectItem = 0;
+    private int lessonTypeNo = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+    private void SelectEducation(int typeNum){
+        selectItem = 0;
+        lessonTypeNo = 0;
+        selectEducationType = typeNum;
+    }
+
+    private void SelectItem(int itemNo){
+        lessonTypeNo = 0;
+        selectItem = itemNo;
+    }
+
+    private void SelectLessonType(int typeNo, int itemNo){
+        lessonTypeNo = typeNo;
+        if(lessonTypeNo == 1){
+
+        }
+        else if(lessonTypeNo == 2){
+
+        }
+        else if(lessonTypeNo == 3){
+            videoUrl = videoUrls[itemNo];
+        }
+    }
+
+}

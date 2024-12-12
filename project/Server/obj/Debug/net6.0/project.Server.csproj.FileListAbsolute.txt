@@ -63,3 +63,4 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\r
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\project.Server.pdb
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\project.Server.genruntimeconfig.cache
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\ref\project.Server.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\project.Server.sourcelink.json

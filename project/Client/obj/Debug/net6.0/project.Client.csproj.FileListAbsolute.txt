@@ -825,3 +825,4 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Client\obj\Debug\net6.0\p
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Client\obj\Debug\net6.0\refint\project.Client.dll
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Client\obj\Debug\net6.0\project.Client.pdb
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Client\obj\Debug\net6.0\ref\project.Client.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Client\obj\Debug\net6.0\project.Client.sourcelink.json

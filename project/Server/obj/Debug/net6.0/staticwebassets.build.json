@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "df9Ia1vO3HT+A4zMtw34K+aWRdz519VzVJmOJJ5bxH4=",
+  "Hash": "6XcleYhVnc8Rt3dlr1lz3jURMfFRoCklABiXzCmw4dc=",
   "Source": "project.Server",
   "BasePath": "_content/project.Server",
   "Mode": "Default",
@@ -7969,6 +7969,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\project\\Client\\wwwroot\\video\\colors.mp4",
+      "SourceId": "project.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\project\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "video/colors.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\video\\colors.mp4"
     }
   ]
 }
