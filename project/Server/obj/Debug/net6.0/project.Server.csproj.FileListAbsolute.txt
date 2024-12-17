@@ -64,3 +64,5 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\p
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\project.Server.genruntimeconfig.cache
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\ref\project.Server.dll
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\obj\Debug\net6.0\project.Server.sourcelink.json
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\project\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll

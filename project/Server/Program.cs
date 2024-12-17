@@ -6,6 +6,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+builder.Services.AddAuthentication("Cookies")
+    .AddCookie("Cookies", options =>{
+        options.LoginPath = "/login";
+    });
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("AdminPolicy", policy =>
+        policy.RequireRole("Admin"));
+});
 
 var app = builder.Build();
 
@@ -26,8 +35,10 @@ app.UseHttpsRedirection();
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
 
-app.UseRouting();
+app.UseAuthentication();
+app.UseAuthorization();
 
+app.UseRouting();
 
 app.MapRazorPages();
 app.MapControllers();
