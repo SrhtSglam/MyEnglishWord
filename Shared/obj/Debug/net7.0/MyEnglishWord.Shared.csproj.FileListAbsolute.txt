@@ -1,0 +1,11 @@
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\bin\Debug\net7.0\MyEnglishWord.Shared.deps.json
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\bin\Debug\net7.0\MyEnglishWord.Shared.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\bin\Debug\net7.0\MyEnglishWord.Shared.pdb
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.AssemblyInfoInputs.cache
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.AssemblyInfo.cs
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.csproj.CoreCompileInputs.cache
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\refint\MyEnglishWord.Shared.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.pdb
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\ref\MyEnglishWord.Shared.dll
