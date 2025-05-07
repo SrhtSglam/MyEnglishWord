@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\MyEnglishWord.Client.styles.css"
     },
     {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\M.E.W-Circle.png",
+      "PackagePath": "staticwebassets\\M.E.W-Circle.png"
+    },
+    {
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\M.E.W.png",
+      "PackagePath": "staticwebassets\\M.E.W.png"
+    },
+    {
       "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -57,8 +65,8 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\stj067\\Documents\\GitHub\\MyEnglishWord\\Client\\wwwroot\\icon-192.png",

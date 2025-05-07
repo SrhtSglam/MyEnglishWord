@@ -833,11 +833,6 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compresse
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\nrsfr0jfz3-tptq2av103.gz
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\u36w2ae9oq-lfu7j35m59.gz
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\0m0b6545ka-7cxe8oq9xu.gz
-C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\akuhuxmx8k-pygyqqspis.gz
-C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\ip8e53kmfq-bxstpnvlja.gz
-C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\ohy7xfnqqv-b7vesdp728.gz
-C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\tz192grhyg-vrja5587xo.gz
-C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\nodhelvizj-y6ifozztxa.gz
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\staticwebassets.build.endpoints.json
@@ -852,3 +847,9 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\MyEnglish
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\refint\MyEnglishWord.Client.dll
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\MyEnglishWord.Client.pdb
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\ref\MyEnglishWord.Client.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\MyEnglishWord.Client.sourcelink.json
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\akuhuxmx8k-vmyokua185.gz
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\ip8e53kmfq-ej9wgjf5dm.gz
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\ohy7xfnqqv-85it5q6xfq.gz
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\tz192grhyg-pp6i7huhol.gz
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Client\obj\Debug\net7.0\compressed\nodhelvizj-ah35w0a66o.gz

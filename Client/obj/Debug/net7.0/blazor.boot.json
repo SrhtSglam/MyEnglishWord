@@ -1,7 +1,7 @@
 {
   "entryAssembly": "MyEnglishWord.Client",
   "resources": {
-    "hash": "sha256-1zFY2XGYP42lTn86uoh7mj7A8UKUxZsLDjQ4YiJT6BA=",
+    "hash": "sha256-/MRqnU+Jo0RlH4Wyo1zZGgug3v+pMFxi5BpS4s0UQAc=",
     "runtime": {
       "dotnet.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -206,12 +206,12 @@
       "mscorlib.dll": "sha256-HYyp9hO+GKFyupcEiY1PxtBBXbHzefsO3Q8RiQTaNCA=",
       "netstandard.dll": "sha256-N5CcC3sLzGBesbmeJAp5bwxABN9u7SwkIO5qfFjzoik=",
       "System.Private.CoreLib.dll": "sha256-bJS1DJmhjP7PvegYG+Z8O9EDtRY78HKinA3LUMVLlSQ=",
-      "MyEnglishWord.Shared.dll": "sha256-n3OsQxOUmWa7bcFtTg6yn2ndw32iTCzXyH3gdv/0P6A=",
-      "MyEnglishWord.Client.dll": "sha256-d9WgMTr6CFQSqxeXRifkTuWckciNXgJQqS5v7b3tREM="
+      "MyEnglishWord.Shared.dll": "sha256-V3HifOsclWoEb0oBCx59SmWwUsqUjzONauzosNszrRA=",
+      "MyEnglishWord.Client.dll": "sha256-5JEesEKF2FjVlhO6O3bX/aLvYZUM9wROLzTxRIzTHeI="
     },
     "pdb": {
-      "MyEnglishWord.Shared.pdb": "sha256-r9wjr/jecyMWTFlPB5I0EoL5otsgu5nBT+aWjiloqEI=",
-      "MyEnglishWord.Client.pdb": "sha256-mxvqgtipe8hbY48dpOul5UtyuPzXCr9vz15G0+emoFE="
+      "MyEnglishWord.Shared.pdb": "sha256-tpvGfuvfetzp+3F+e8FpvQ6qip89BQiPzgCp0r3wEN4=",
+      "MyEnglishWord.Client.pdb": "sha256-g6Ko2yBuVDmB0nbQiXWtc6/asEpIVcMx8ou0G0L1tRo="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

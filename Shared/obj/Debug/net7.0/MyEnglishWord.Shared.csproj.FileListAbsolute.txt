@@ -9,3 +9,4 @@ C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglish
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\refint\MyEnglishWord.Shared.dll
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.pdb
 C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\ref\MyEnglishWord.Shared.dll
+C:\Users\stj067\Documents\GitHub\MyEnglishWord\Shared\obj\Debug\net7.0\MyEnglishWord.Shared.sourcelink.json

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyEnglishWord.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6b5e2a24c124a9fdb8e1503e47f24f40d82a06c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyEnglishWord.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyEnglishWord.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

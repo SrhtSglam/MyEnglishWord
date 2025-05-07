@@ -1,9 +1,111 @@
-﻿@page "/"
+@page "/"
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<!-- Hero Section (Başlangıç Yazısı) -->
+<section class="py-5" style="background: linear-gradient(45deg, #6a0dad, #00bcd4); color: white; border-top-left-radius: 50px; border-top-right-radius: 50px;">
+    <div class="container text-center">
+        <h1 class="fw-bold mb-3">Welcome to My English Word!</h1>
+        <p class="lead">Learn English through fun and interactive ways — videos, lessons, games, and more!</p>
+        <a class="btn btn-warning fw-bold mt-3 px-4 py-2" href="#features">Discover Now</a>
+    </div>
+</section>
 
-Welcome to your new app.
+<!-- Sitemizde Neler Var? -->
+<section class="py-5 bg-light" id="features">
+    <div class="container text-center">
+        <h2 class="mb-5 fw-bold" style="color: #6a0dad;">What’s Inside?</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">🎥 Video Lessons</h5>
+                        <p>Short and engaging videos covering grammar, vocabulary, and pronunciation.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title text-danger">🎮 Games</h5>
+                        <p>Fun games that help reinforce your English without feeling like homework.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title text-success">📚 Lesson Materials</h5>
+                        <p>Comprehensive explanations and topic-based learning for all ages.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+<!-- Üyelik Kartları -->
+<section class="py-5 bg-white">
+    <div class="container text-center">
+        <h2 class="mb-5 fw-bold" style="color: #ff7043;">Membership Options</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card border border-info shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title text-info">👶 Free Plan</h5>
+                        <p>• Access to limited content<br />• Beginner games<br />• Basic vocabulary cards</p>
+                        <button class="btn btn-outline-info">Start Now</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card border border-warning shadow-sm h-100">
+                    <div class="card-body">
+                        <h5 class="card-title text-warning">🌟 Standard Plan</h5>
+                        <p>• All video access<br />• Extra games<br />•  Weekly quizzes</p>
+                        <button class="btn btn-warning text-white">Become Member</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card border border-purple shadow-sm h-100" style="border-color: #8a2be2;">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: #8a2be2;">💎 Premium Plan</h5>
+                        <p>• Full access to everything<br />• Custom study calendar<br />• Achievement certificates</p>
+                        <button class="btn btn-dark">Upgrade Premium</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Kullanıcı Yorumları -->
+<section class="py-5 bg-light">
+    <div class="container text-center">
+        <h2 class="mb-5 fw-bold" style="color: #6a0dad;">What Our Users Say</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body">
+                        <p>"This platform makes learning so fun! I play games while learning new words." <br /><strong>– Emily, 13</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body">
+                        <p>"Konu anlatımları sade ve anlaşılır, videoları tekrar tekrar izliyorum." <br /><strong>– Mert, 16</strong></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body">
+                        <p>"Ich lerne jeden Tag mit den Videos. Sehr hilfreich und spannend!" <br /><strong>– Lara, 15</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
